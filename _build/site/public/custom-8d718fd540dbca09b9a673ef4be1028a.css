@@ -1,0 +1,7 @@
+h1 code, h2 code, h3 code, h4 code {
+  background: var(--pst-color-surface);
+  border: 1px solid var(--pst-color-border);
+  padding: 0.15em 0.4em;
+  border-radius: 0.25em;
+  font-size: 0.85em;
+}

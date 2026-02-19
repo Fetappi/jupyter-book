@@ -1,0 +1,16 @@
+/* h1 code, h2 code, h3 code, h4 code {
+  background: var(--pst-color-surface);
+  border: 1px solid var(--pst-color-border);
+  padding: 0.15em 0.4em;
+  border-radius: 0.25em;
+  font-size: 0.85em;
+} */
+
+h2 code, h1 code, h3 code {
+  font-family: monospace;
+  background-color: #f0f0f0;  /* светло-серый фон, как обычно для кода */
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;  /* подберите под размер шрифта заголовка */
+  color: ;
+}
